@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**luizaes/luizaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hey!👋🏻
 
-Here are some ideas to get you started:
+My name is Luiza and I'm a 23 year old  developer from Brazil who loves to learn new things and solve problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍🎓 I have a bachelor's degree in Computer Science by Santa Catarina State University (UDESC).
+
+👩🏻‍💻 I currently work as a Software Engineer at [VTEX](https://vtex.com/us-en/commerce-cloud/).
+
+📚 I've been working and trying to improve in technologies like C#, .NET, GraphQL and React.
+
+✨ My areas of interest include Artificial Intelligence and Game Development.
+
+I'm open to discuss interesting ideas and projects, and help in what I can. For that you can reach me at:
+- [LinkedIn](https://www.linkedin.com/in/luiza-engler/)
+- luiza.engler@gmail.com
