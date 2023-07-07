@@ -5,9 +5,9 @@ My name is Luiza and I'm a developer from Brazil who loves to learn new things a
 
 👩🏻‍🎓 I have a bachelor's degree in Computer Science by Santa Catarina State University (UDESC).
 
-👩🏻‍💻 I currently work as a Software Engineer at [VTEX](https://vtex.com/us-en/commerce-cloud/).
+👩🏻‍💻 I currently work as a Software Engineer at Google.
 
-📚 I mainly work with back-end development, having experience with C#, .NET, AWS and building message-driven microservices in general.
+📚 I mainly work with back-end development, having experience with C#, .NET, AWS and message-driven microservices.
 
 ✨ My areas of interest include Artificial Intelligence and Game Development.
 
